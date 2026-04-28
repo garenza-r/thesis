@@ -1,0 +1,6 @@
+,Pred:vegetation,Pred:baresoil,Pred:bush,Pred:builtup,Pred:waterbodies
+Act:vegetation,55,0,0,0,0
+Act:baresoil,0,43,1,1,0
+Act:bush,0,1,44,0,0
+Act:builtup,0,6,5,14,0
+Act:waterbodies,0,1,0,1,13
